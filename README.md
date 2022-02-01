@@ -28,12 +28,14 @@ This documentation is provided by the author “as is” without any express or 
 * HTTP Redirects
 * Password-Protected Feeds
 * Other HTTP Headers
+* 
 ### Annotated Examples
 Atom 1.0
 Atom 0.3
 RSS 2.0
 RSS 2.0 with Namespaces
 RSS 1.0
+
 ### Revision history
 Changes in version 4.2
 Changes in version 4.1
@@ -48,11 +50,13 @@ Changes in version 3.0
 Changes in version 2.7.x
 Changes in version 2.6
 Changes in earlier versions
-### Reference
-bozo
+
+## Reference
+### bozo
 bozo_exception
 encoding
 entries
+
 ### author
 author_detail
 comments
@@ -65,6 +69,7 @@ expired
 expired_parsed
 id
 license
+
 ### link
 links
 published
@@ -74,12 +79,14 @@ publisher_detail
 source
 summary
 summary_detail
+
 ### tags
 title
 title_detail
 updated
 updated_parsed
 etag
+
 ### feed
 feed.author
 feed.author_detail
@@ -114,6 +121,7 @@ feed.title_detail
 feed.ttl
 feed.updated
 feed.updated_parsed
+
 ### headers
 href
 modified
